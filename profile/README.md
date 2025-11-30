@@ -28,3 +28,30 @@
 ## 🛠️ Technologie und Integration  
 
 **NETID** basiert auf neuesten Sicherheitsstandards und bewährten Technologien, um eine reibungslose Nutzererfahrung mit höchster Zuverlässigkeit zu verbinden. 
+
+---
+
+## 👀 Vorschau
+
+<table>
+  <tr>
+    <th>App Version</th>
+    <th>Web Version</th>
+  </tr>
+  <tr>
+    <td>
+      <img
+        src="https://github.com/user-attachments/assets/ab075b92-322b-4750-9df0-8793c3b2659a"
+        alt="App Screenshot"
+        width="250"
+      />
+    </td>
+    <td>
+      <img
+        src="Later"
+        alt="Web Screenshot"
+        width="250"
+      />
+    </td>
+  </tr>
+</table>
