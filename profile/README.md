@@ -41,8 +41,15 @@
   <tr>
     <td>
       <img
-        src="https://github.com/user-attachments/assets/ab075b92-322b-4750-9df0-8793c3b2659a"
-        alt="App Screenshot"
+        src="Later"
+        alt="Android App Screenshot"
+        width="250"
+      />
+    </td>
+    <td>
+      <img
+        src="Later"
+        alt="iOS App Screenshot"
         width="250"
       />
     </td>
