@@ -35,7 +35,8 @@
 
 <table>
   <tr>
-    <th>App Version</th>
+    <th>Android App Version</th>
+    <th>iOS App Version</th>
     <th>Web Version</th>
   </tr>
   <tr>
